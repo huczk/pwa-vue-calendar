@@ -1,6 +1,6 @@
-# vue-pwa
+# PWA Vue Calendar
 
-> A Vue.js project
+> Calendar build with vue.
 
 ## Build Setup
 
